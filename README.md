@@ -1,7 +1,7 @@
 # 🧠 Brain Tumor Detection Using Deep Learning  and GAN for data generation
 
 ## 📌 Overview  
-This project focuses on **detecting brain tumors** using **deep learning techniques**. The model is trained on MRI scan images to classify into 4 categories: Glioma, Meningioma, Pituitary or No Tumor. The **Convolutional Neural Network (CNN)** architecture is used for image classification, ensuring accurate tumor detection. Implemented **GAN** for creating new data to overcome imbalanced dataset and generalization to new data.
+This project focuses on **detecting brain tumors** using **deep learning techniques**. The model is trained on MRI scan images to classify into 4 categories: Glioma, Meningioma, Pituitary or No Tumor. The **Convolutional Neural Network (CNN)** architecture is used for image classification, ensuring accurate tumor detection.
 
 ## 🚀 Features  
 ✅ Automated brain tumor classification using deep learning.  
